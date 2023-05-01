@@ -93,7 +93,7 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "进群更新",
+      GoToUpdate: "前往更新",
     },
     SendKey: "发送键",
     Theme: "主题",
@@ -145,7 +145,7 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "授权码",
+      Title: "访问密码",
       SubTitle: "已开启加密访问",
       Placeholder: "请输入访问密码",
     },
