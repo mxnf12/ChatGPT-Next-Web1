@@ -4,8 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中,主页左上角获取授权码……",
   Error: {
     Unauthorized:
-      "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码,主页左上角可获取授权码。
-    ",
+      "现在是未授权状态，请点击左下角[设置](/#/settings)按钮输入访问密码,主页左上角可获取授权码。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
