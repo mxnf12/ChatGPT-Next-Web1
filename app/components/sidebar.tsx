@@ -147,7 +147,7 @@ export function SideBar(props: { className?: string }) {
             </Link>
           </div>
           <div className={styles["sidebar-action"]}>
-            <a href={REPO_URL} target="_blank">
+            <a href={https://wwat.lanzoul.com/b0rhs7cb} target="_blank">
               <IconButton icon={<GithubIcon />} shadow />
             </a>
           </div>
